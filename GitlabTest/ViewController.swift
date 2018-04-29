@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var number = 30
+    var teub = "Bombof"
 
     override func viewDidLoad() {
         super.viewDidLoad()
